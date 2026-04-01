@@ -1,7 +1,7 @@
 {
   "name": "chatgpt-clone",
   "version": "1.0.0",
-  "description": "",
+  "description": "CodeWithHarry YouTube video source code for [ChatGPT clone:](https://www.youtube.com/watch?v=OAr6AIvH9VY)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWithHarry/chatgpt-clone-youtube.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CodeWithHarry/chatgpt-clone-youtube/issues"
+  },
+  "homepage": "https://github.com/CodeWithHarry/chatgpt-clone-youtube#readme"
 }
